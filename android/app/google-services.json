@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179993717309",
+    "project_id": "sublimed-c47ae",
+    "storage_bucket": "sublimed-c47ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179993717309:android:27f40ee928f0840b939854",
+        "android_client_info": {
+          "package_name": "com.sublimed.sublimed_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179993717309-i7v7l99u8fd7dkdnro5aimclv3u31a12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa-tfJa4j9f24o11ZyKEunHYnqB2kK-Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179993717309-i7v7l99u8fd7dkdnro5aimclv3u31a12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
